@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Local data, weights and experiment outputs
+data/
+weights/
+checkpoints/
+outputs/
+logs/
+runs/
+*.pt
+*.pth
+*.ckpt
+*.sdf
+*.pdb
+*.pdbqt
+
+# Local configuration and secrets
+*.local.json
+.env
+.env.*
+!.env.example
