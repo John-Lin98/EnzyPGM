@@ -1,0 +1,4 @@
+torch>=2.0
+fair-esm>=2.0.0
+torch-scatter>=2.1.2
+tensorboard>=2.13
