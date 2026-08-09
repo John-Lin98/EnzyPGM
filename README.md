@@ -1,8 +1,6 @@
 # EnzyPGM
 
-本仓库提供论文 *EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design* 的原始 PEGM 实现整理版。EnzyPGM 将蛋白序列/结构、EC 编号、配体原子特征和官方口袋信息输入到 pocket-enhanced bilevel attention 模块，用于口袋条件下的酶序列与结构生成。
-
-本次公开只包含论文实现、可编辑的配置模板、训练/推理入口和轻量评估工具。它**不包含** EnzyPGM-2、EnzyMatch、EnzyPock-2 的未发表代码或结果。
+论文 *EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design* 的官方仓库。EnzyPGM 将蛋白序列/结构、EC 编号、配体原子特征和官方口袋信息输入到 pocket-enhanced bilevel attention 模块，用于口袋条件下的酶序列与结构生成。
 
 ## 仓库内容
 
